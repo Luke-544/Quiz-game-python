@@ -1,2 +1,3 @@
 # Quiz-game-python
-## Thoughts
+## Thoughts:
+Its an easy game to create for a beginner # Smiley Face
