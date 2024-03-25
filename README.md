@@ -1,1 +1,2 @@
 # Quiz-game-python
+## Thoughts
